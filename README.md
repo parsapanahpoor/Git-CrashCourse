@@ -47,14 +47,6 @@ python -m http.server 8000
 
 سپس `http://localhost:8000` را باز کنید. بدون Server نیز باز کردن مستقیم `index.html` برای بسیاری از مرورگرها کار می‌کند.
 
-## فعال‌سازی GitHub Pages
-
-1. وارد **Settings → Pages** در همین Repository شوید.
-2. در **Build and deployment**، مقدار **Source** را `Deploy from a branch` قرار دهید.
-3. **Branch** را `main` و **Folder** را `/(root)` انتخاب و **Save** کنید.
-4. پس از تکمیل Deployment، لینک سایت را باز کنید و نمایش اسلایدها را بررسی کنید.
-
-لینک تنظیمات: https://github.com/parsapanahpoor/Gti-CrashCourse/settings/pages
 
 ## منابع فنی
 
